@@ -40,7 +40,7 @@ const App = () => {
         className="w-fit grid m-auto text-center capitalize mt-5"
       >
         <fieldset className="w-fit grid gap-4 p-4 shadow-md shadow-[#0000007a] rounded-lg ">
-          <legend className="text-3xl capitalize">todo inputs</legend>
+          <legend className="text-3xl capitalize">todo app</legend>
           <input
             type="text"
             placeholder="Type here name"
